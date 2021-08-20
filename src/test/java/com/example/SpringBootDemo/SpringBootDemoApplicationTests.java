@@ -8,7 +8,7 @@ class SpringBootDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Sys.......
+		System.out.println("test case");
 	}
 
 }
